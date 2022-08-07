@@ -21,3 +21,10 @@ I'm Salvatore, an engineering leader who is passionate about all things software
 * 👏 Building and empowering software development teams
 * 🚴‍♂️ Software Development Lifecyle (SDLC)
 * 🍥 Design Driven Development
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iToto&langs_count=10&layout=compact&theme=gruvbox&hide=python, javascript,html,css" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iToto&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
