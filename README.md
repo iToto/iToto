@@ -1,16 +1,23 @@
-### Hi there 👋
+### 👋 Howdy 🤠!
 
-<!--
-**iToto/iToto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Salvatore, an engineering leader who is passionate about all things software.
 
-Here are some ideas to get you started:
+### Currently, I am: 
+* 💪 Helping to improve all things AuthZ [@GitHub](https://github.com/github)
+* 👶 A new father
+* 📈 Always trying to improve my craft
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### In the past, I:
+* 💳 Co-founded and lead product engineering [@Wingocard](https://github.com/wingocard)
+* 👨‍🎨 Improved user activation as a manager [@InVison](https://github.com/invisionapp)
+* 🤖 Desidgned and implemented public and internal APIs [@Cloudflare](https://github.com/cloudflare)
+
+### Ask me about:
+* 🚪 APIs
+* 🕋 Web Application Architecture
+* 🚨 Operations
+* 🗿 Reliability and Resilliancy
+* 👏 Building and empowering software development teams
+* 🚴‍♂️ Software Development Lifecyle (SDLC)
+* 🍥 Design Driven Development
