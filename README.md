@@ -1,6 +1,6 @@
-# 👋 Howdy 🤠
+# 👋 Howdy!
 
-I'm Salvatore, an engineering leader who is passionate about all things software.
+I'm Salvatore, an engineering leader who is passionate about all things software and tech 🤖.
 
 ## Currently, I am
 
@@ -10,7 +10,7 @@ I'm Salvatore, an engineering leader who is passionate about all things software
 
 ## In the past, I
 
-* 💳 Co-founded and lead product engineering [@Wingocard](https://github.com/wingocard)
+* 💳 Co-founded and lead product & engineering [@Wingocard](https://github.com/wingocard)
 * 👨‍🎨 Improved user activation [@InVison](https://github.com/invisionapp)
 * 🤖 Desidgned and implemented public and internal APIs [@Cloudflare](https://github.com/cloudflare)
 
